@@ -29,23 +29,20 @@ This project demonstrates the integration of various open-source security tools 
 - A custom **Grafana dashboard** is built to visualize MISP-related alerts.
 - The dashboard provides real-time insights into the IOC matches detected by the system.
 
-**Screenshot Placeholder:**  
-*(Insert Grafana dashboard screenshot here)*
+![Grafana Dashboard](https://github.com/arviiyer/threat-intel-soc/blob/main/screenshots/grafana-with-misp-findings.png)
 
 ### 5. DFIR IRIS Case Management
 
 - Alerts generated in Graylog are sent to **DFIR IRIS** for case management and further investigation.
 - This ensures that any detected threat is systematically managed and escalated as needed.
 
-**Screenshot Placeholder:**  
-*(Insert DFIR IRIS case management screenshot here)*
+![DFIR-IRIS](https://github.com/arviiyer/threat-intel-soc/blob/main/screenshots/dfir-iris-alerts.png)
 
 ### 6. SOCFortress CoPilot Integration
 
 - All these tools are connected using [**SOCFortress CoPilot**](https://github.com/socfortress/CoPilot), which simplifies the integration process and ensures smooth communication between the different components.
 
-**Screenshot Placeholder:**  
-*(Insert SOCFortress CoPilot configuration or connection screenshot here)*
+![CoPilot Integration](https://github.com/arviiyer/threat-intel-soc/blob/main/screenshots/copilot-connectors.png)
 
 ## Getting Started
 
