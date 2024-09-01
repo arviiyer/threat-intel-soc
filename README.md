@@ -4,8 +4,7 @@ This project demonstrates the integration of various open-source security tools 
 
 ## Architecture Diagram
 
-**Screenshot Placeholder:**  
-[Solution Architecture](https://github.com/arviiyer/threat-intel-soc/blob/main/threat-intel-soc-architecture-diagram.drawio.png)
+![Architecture Diagram](https://github.com/arviiyer/threat-intel-soc/blob/main/threat-intel-soc-architecture-diagram.drawio.png)
 
 ## Project Overview
 
