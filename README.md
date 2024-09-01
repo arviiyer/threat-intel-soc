@@ -1,7 +1,3 @@
-Certainly! Here's the updated README with a credit section for SOCFortress and their YouTube tutorials:
-
----
-
 # Threat Intelligence Powered SOC
 
 This project demonstrates the integration of various open-source security tools to create an automated threat detection and incident response system. The key components include Wazuh, Graylog, MISP, Grafana, and DFIR IRIS, all interconnected using [SOCFortress CoPilot](https://github.com/socfortress/CoPilot) software. The setup enables the detection of Indicators of Compromise (IOCs) within logs and the seamless escalation of alerts to a case management system.
